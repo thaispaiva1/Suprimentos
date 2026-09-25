@@ -1,0 +1,6 @@
+{
+  "name": "SupriNac - Sistema de Suprimentos e Gestão de Compras",
+  "description": "Sistema empresarial nacional de suprimentos para gestão de compras, monitoramento de prazos e entregas, cálculo de saving (economia) e integração com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
